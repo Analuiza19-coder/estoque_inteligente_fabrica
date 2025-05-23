@@ -7,3 +7,10 @@
 - Preço de Custo
 - Preço de Venda
 -**Quantidade em Estoque**
+
+**##Detalhes de Logística**
+-Localização no Armazém (Corredor/Prateleira)
+
+**##Informações do Fornecedor**
+- Nome do Fornecedor Principal
+- Contato do Fornecedor 
