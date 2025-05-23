@@ -6,3 +6,4 @@
 - Descrição Breve
 - Preço de Custo
 - Preço de Venda
+-**Quantidade em Estoque**
