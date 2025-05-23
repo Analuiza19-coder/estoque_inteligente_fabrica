@@ -1,0 +1,8 @@
+#Módulo de Cadastro de Produtos - Controle de Estoque Inteligente
+
+##Campos Essenciais 
+- Nome do Produto
+- Código SKU 
+- Descrição Breve
+- Preço de Custo
+- Preço de Venda
